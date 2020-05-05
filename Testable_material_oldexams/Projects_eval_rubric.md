@@ -4,4 +4,6 @@
 
 Name | I. Priors, questions, hypotheses | II. Data analysis, Applied | III. Synthesis of lessons learned
 -----|------ | -------------------|----------------------
-Kelsey Malloy | | | 
+Presenter | | | 
+General suggestions | | | 
+
